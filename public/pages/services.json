@@ -1,22 +1,22 @@
 {
   "hero": {
     "type": "image",
-    "title": "Precision Manufacturing Solutions",
+    "title": "Expert Door Part Manufacturing Solutions",
     "enabled": true,
-    "subtitle": "Delivering high-quality door parts and custom manufacturing services with 7 years of expert craftsmanship",
-    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080",
-    "backgroundVideo": ""
+    "subtitle": "Precision Engineering and Custom Manufacturing for Connecting Door Parts and Windows",
+    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
+    "backgroundVideo": null
   },
   "meta": {
     "title": "RK Enterprise | Door Parts Manufacturing & Custom Solutions",
-    "description": "Specialized manufacturer of connecting door parts, windows, and custom laser writing services with precision engineering and quality assurance."
+    "description": "Specialized manufacturer of high-quality connecting door parts, windows, and custom laser writing services with 7 years of industry expertise."
   },
   "sections": {
     "cta": {
       "type": "cta",
-      "title": "Ready to Transform Your Manufacturing Needs?",
+      "title": "Ready to Transform Your Door Part Requirements?",
       "enabled": true,
-      "subtitle": "Connect with our experts and discover tailored manufacturing solutions for your project",
+      "subtitle": "Get expert consultation and precision manufacturing solutions tailored to your specific needs",
       "primaryCTA": {
         "text": "Request Quote",
         "action": "/contact"
@@ -31,44 +31,47 @@
       "items": [
         {
           "id": "door-parts-manufacturing",
-          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080",
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
           "title": "Door Parts Manufacturing",
-          "description": "Specialized manufacturing of high-quality connecting door parts with precision engineering and custom design capabilities. Our advanced manufacturing processes ensure superior product performance and reliability.",
+          "description": "Specialized manufacturing of high-precision connecting door parts using advanced engineering techniques. We deliver custom solutions that meet exact client specifications and industry standards.",
           "capabilities": [
-            "Custom door part design",
-            "Precision manufacturing",
-            "High-volume production",
-            "Quality-controlled fabrication"
+            "Custom Door Part Design",
+            "Precision Manufacturing",
+            "Quality Assurance Testing",
+            "Rapid Prototyping",
+            "Material Optimization"
           ]
         },
         {
           "id": "laser-writing-services",
-          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080",
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
           "title": "Laser Writing Services",
-          "description": "Offering advanced laser writing solutions for custom marking and personalization of door parts and components. Our precise laser technology ensures crisp, durable, and professional results.",
+          "description": "Advanced laser writing solutions for precise marking, engraving, and customization of door parts and components. Our technology ensures high-quality, durable markings.",
           "capabilities": [
-            "Custom laser engraving",
-            "Detailed component marking",
-            "High-precision writing",
-            "Multiple material compatibility"
+            "Custom Laser Engraving",
+            "High-Precision Marking",
+            "Multiple Material Compatibility",
+            "Quick Turnaround",
+            "Detailed Customization"
           ]
         },
         {
           "id": "window-component-manufacturing",
-          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080",
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
           "title": "Window Component Manufacturing",
-          "description": "Comprehensive manufacturing of window parts with exceptional attention to detail and quality. We deliver robust and precisely engineered window components for various applications.",
+          "description": "Comprehensive manufacturing of specialized window components with exceptional precision and quality. We deliver reliable solutions for various window system requirements.",
           "capabilities": [
-            "Structural window part production",
-            "Precision engineering",
-            "Material diversity",
-            "Custom design solutions"
+            "Custom Window Part Design",
+            "Precision Engineering",
+            "Material Selection",
+            "Quality Control",
+            "Scalable Production"
           ]
         }
       ],
       "title": "Our Manufacturing Services",
       "enabled": true,
-      "subtitle": "Comprehensive manufacturing solutions tailored to your specific requirements"
+      "subtitle": "Comprehensive Solutions for Door Parts and Window Components"
     },
     "capabilities": {
       "type": "capabilities",
@@ -79,22 +82,22 @@
           "metrics": [
             {
               "label": "Monthly Production",
-              "value": "5,000+ units"
+              "value": "5000+ Units"
             },
             {
-              "label": "Operating Capacity",
+              "label": "Operating Hours",
               "value": "24/7 Production"
             },
             {
-              "label": "Average Delivery",
-              "value": "10-15 business days"
+              "label": "Delivery Timeline",
+              "value": "2-4 Weeks"
             }
           ],
-          "description": "Our state-of-the-art manufacturing facility enables high-volume, precision production with rapid turnaround times and consistent quality."
+          "description": "State-of-the-art manufacturing facility with robust production capabilities and flexible scheduling to meet diverse client requirements."
         },
         {
           "id": "technical-expertise",
-          "title": "Technical Manufacturing Expertise",
+          "title": "Technical Engineering Expertise",
           "metrics": [
             {
               "label": "Manufacturing Technologies",
@@ -102,18 +105,18 @@
             },
             {
               "label": "Industry Experience",
-              "value": "7+ Years"
+              "value": "7 Years"
             },
             {
               "label": "Custom Solutions",
-              "value": "Unlimited Configurations"
+              "value": "100% Adaptable"
             }
           ],
-          "description": "Leveraging advanced technologies and extensive industry experience to deliver innovative manufacturing solutions."
+          "description": "Comprehensive technical expertise with advanced engineering capabilities and continuous innovation in manufacturing technologies."
         },
         {
           "id": "quality-standards",
-          "title": "Quality Assurance Excellence",
+          "title": "Quality and Precision Standards",
           "metrics": [
             {
               "label": "Precision Tolerance",
@@ -124,16 +127,16 @@
               "value": "99.8%"
             },
             {
-              "label": "Compliance Standards",
-              "value": "ISO 9001 Certified"
+              "label": "Certifications",
+              "value": "ISO 9001:2015"
             }
           ],
-          "description": "Committed to maintaining the highest quality standards through rigorous testing and precision manufacturing techniques."
+          "description": "Rigorous quality control processes ensuring exceptional precision, reliability, and adherence to international manufacturing standards."
         }
       ],
       "title": "Our Manufacturing Capabilities",
       "enabled": true,
-      "subtitle": "Advanced technologies and precision engineering at your service"
+      "subtitle": "Advanced Technology and Precision Engineering"
     },
     "manufacturing-process": {
       "type": "manufacturing-process",
@@ -141,37 +144,37 @@
         {
           "step": 1,
           "title": "Initial Consultation",
-          "description": "Understand client requirements, discuss project specifications, and develop comprehensive manufacturing strategy."
+          "description": "Detailed client requirements gathering and comprehensive project assessment."
         },
         {
           "step": 2,
-          "title": "Design & Engineering",
-          "description": "Create detailed technical drawings and 3D models using advanced CAD software for precise component design."
+          "title": "Design and Engineering",
+          "description": "Precision CAD design and engineering of custom door parts and components."
         },
         {
           "step": 3,
           "title": "Material Selection",
-          "description": "Choose optimal materials based on project requirements, ensuring durability and performance."
+          "description": "Strategic material selection based on specific project requirements and performance criteria."
         },
         {
           "step": 4,
           "title": "Precision Manufacturing",
-          "description": "Utilize advanced manufacturing technologies to produce high-quality components with exceptional accuracy."
+          "description": "Advanced manufacturing using state-of-the-art technologies and precision equipment."
         },
         {
           "step": 5,
-          "title": "Quality Control",
-          "description": "Conduct comprehensive quality inspections to verify dimensional accuracy and performance standards."
+          "title": "Quality Assurance",
+          "description": "Comprehensive testing and quality control to ensure exceptional product standards."
         },
         {
           "step": 6,
-          "title": "Delivery & Support",
-          "description": "Package and deliver components, providing ongoing technical support and consultation."
+          "title": "Delivery and Support",
+          "description": "Timely delivery and ongoing technical support for complete client satisfaction."
         }
       ],
       "title": "Our Manufacturing Process",
       "enabled": true,
-      "subtitle": "A systematic approach to delivering exceptional manufacturing solutions"
+      "subtitle": "Systematic Approach to Precision Manufacturing"
     }
   }
 }
