@@ -9,11 +9,11 @@
     "enabled": true,
     "subtitle": "Excellence in Manufacturing Door Parts Since 2016",
     "description": "RK Enterprise has been a leading manufacturer of precision door parts and window components for over 7 years. We combine innovative technology with expert craftsmanship to deliver high-quality customized solutions for our clients.",
-    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2"
+    "backgroundImage": "/manufacturing-facility.jpg"
   },
   "meta": {
     "title": "RK Enterprise - Manufacturing Excellence Since 2016",
-    "description": "Specialized manufacturer of door parts and window components with 7 years of industry experience, delivering precision and customized solutions."
+    "description": "Specialized manufacturer of door parts and window components with 7 years of industry experience, delivering custom solutions and precision engineering."
   },
   "sections": {
     "cta": {
@@ -26,7 +26,7 @@
         "action": "/contact"
       },
       "secondaryCTA": {
-        "text": "View Services",
+        "text": "View Capabilities",
         "action": "/services"
       }
     },
@@ -35,17 +35,17 @@
       "items": [
         {
           "id": "manufacturing-excellence",
-          "year": 2022,
+          "year": "2022",
           "title": "Manufacturing Innovation Award",
           "authority": "Regional Manufacturing Association",
           "description": "Recognized for outstanding innovation in custom door part manufacturing"
         },
         {
-          "id": "quality-leadership",
-          "year": 2021,
-          "title": "Quality Leadership Certificate",
-          "authority": "National Quality Institute",
-          "description": "Awarded for consistent high-quality manufacturing standards"
+          "id": "quality-achievement",
+          "year": "2021",
+          "title": "Quality Performance Certificate",
+          "authority": "National Quality Board",
+          "description": "Acknowledged for consistent high-quality manufacturing standards"
         }
       ],
       "title": "Awards & Recognition",
@@ -58,42 +58,42 @@
         {
           "id": "iso-quality",
           "name": "ISO 9001:2015",
-          "image": "/placeholder.svg",
-          "description": "Certified quality management system ensuring consistent product performance"
+          "image": "/iso-quality.svg",
+          "description": "Certified quality management system ensuring consistent product excellence"
         },
         {
           "id": "safety-standard",
           "name": "OSHA Safety Certification",
-          "image": "/placeholder.svg",
-          "description": "Compliance with highest safety and workplace standards"
+          "image": "/safety-cert.svg",
+          "description": "Demonstrating commitment to workplace safety and operational standards"
         }
       ],
       "title": "Certifications & Standards",
       "enabled": true,
-      "subtitle": "Committed to quality, safety, and continuous improvement"
+      "subtitle": "Committed to highest industry quality and safety standards"
     },
     "companyJourney": {
       "type": "company-journey",
       "items": [
         {
-          "year": 2016,
+          "year": "2016",
           "title": "Company Foundation",
           "description": "Established RK Enterprise with a vision to provide high-quality door part manufacturing solutions"
         },
         {
-          "year": 2019,
-          "title": "Technology Expansion",
-          "description": "Invested in advanced laser writing and customization technologies"
+          "year": "2018",
+          "title": "First Major Expansion",
+          "description": "Upgraded manufacturing facilities and introduced advanced laser writing technology"
         },
         {
-          "year": 2021,
-          "title": "Quality Certification",
-          "description": "Achieved ISO 9001:2015 certification, demonstrating commitment to quality"
+          "year": "2020",
+          "title": "ISO Certification",
+          "description": "Achieved ISO 9001:2015 certification, reinforcing our commitment to quality"
         },
         {
-          "year": 2022,
-          "title": "Market Expansion",
-          "description": "Expanded manufacturing capabilities and client base across multiple regions"
+          "year": "2022",
+          "title": "Technology Upgrade",
+          "description": "Invested in state-of-the-art CNC machinery to enhance precision manufacturing"
         }
       ],
       "title": "Our Journey",
@@ -102,24 +102,24 @@
     },
     "companyOverview": {
       "type": "company-overview",
-      "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
+      "image": "/company-facility.jpg",
       "items": [
         {
           "id": "overview",
-          "content": "RK Enterprise is a specialized manufacturer of connecting door parts and windows, established in 2016. We provide precision manufacturing solutions with advanced laser writing and customization technologies, serving diverse industrial clients with high-quality, tailored products.",
+          "content": "RK Enterprise is a specialized manufacturer of high-quality door parts and window components, serving diverse industries with precision engineering and customized solutions. Founded in 2016, we have consistently delivered innovative manufacturing services with a focus on quality and customer satisfaction.",
           "highlights": [
             "ISO 9001:2015 Certified",
             "Advanced Laser Writing Technology",
             "Custom Door Part Manufacturing",
-            "7 Years of Industry Experience",
-            "Precision Engineering",
-            "Comprehensive Quality Assurance"
+            "7+ Years of Industry Experience",
+            "Precision CNC Manufacturing",
+            "Nationwide Service Coverage"
           ]
         }
       ],
       "title": "Company Overview",
       "enabled": true,
-      "subtitle": "Innovative Manufacturing Solutions for Modern Challenges"
+      "subtitle": "Innovative Manufacturing Solutions for Modern Businesses"
     },
     "manufacturingProcess": {
       "type": "manufacturing-process",
@@ -128,31 +128,31 @@
           "id": "design",
           "step": 1,
           "title": "Design & Engineering",
-          "description": "Comprehensive design consultation and technical planning for custom door parts"
+          "description": "Comprehensive design consultation and technical engineering of door parts"
         },
         {
           "id": "material",
           "step": 2,
           "title": "Material Selection",
-          "description": "Precision material sourcing to ensure optimal performance and durability"
+          "description": "Carefully selecting premium materials for durability and performance"
         },
         {
           "id": "production",
           "step": 3,
           "title": "Precision Manufacturing",
-          "description": "Advanced manufacturing techniques using state-of-the-art equipment"
+          "description": "Utilizing advanced CNC machinery for accurate component production"
         },
         {
           "id": "quality",
           "step": 4,
-          "title": "Quality Control",
-          "description": "Rigorous testing and inspection to maintain highest quality standards"
+          "title": "Rigorous Quality Control",
+          "description": "Comprehensive inspection and testing of each manufactured component"
         },
         {
           "id": "finishing",
           "step": 5,
-          "title": "Laser Customization",
-          "description": "Precision laser writing and final customization of door parts"
+          "title": "Surface Treatment",
+          "description": "Advanced finishing techniques to enhance component durability"
         },
         {
           "id": "delivery",
