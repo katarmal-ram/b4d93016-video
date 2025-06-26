@@ -4,12 +4,12 @@
     "title": "Contact RK Enterprise",
     "enabled": true,
     "subtitle": "Connect with Manufacturing Experts for Custom Door Parts",
-    "description": "We're ready to discuss your specific door and window part requirements. Our team of experienced professionals is committed to delivering precision-engineered solutions tailored to your needs.",
+    "description": "We're ready to discuss your specific door and window part requirements. Our team of experienced professionals is committed to delivering precise, high-quality solutions tailored to your needs.",
     "backgroundImage": "https://images.unsplash.com/photo-1497366811353-6870ed9f7a2f"
   },
   "meta": {
     "title": "RK Enterprise - Manufacturing Door Parts Contact",
-    "description": "Connect with RK Enterprise's door part manufacturing experts. Quick response, custom solutions, and 7 years of industry experience."
+    "description": "Connect with RK Enterprise's manufacturing experts. Quick response, custom door parts solutions, and 7 years of industry experience."
   },
   "sections": {
     "contactForm": {
@@ -26,18 +26,18 @@
           "icon": "map-pin",
           "type": "address",
           "title": "Our Manufacturing Location",
-          "content": "RK Enterprise Manufacturing Facility, Industrial Zone, Maharashtra, India"
+          "content": "RK Enterprise, Industrial Area, Manufacturing Zone, India"
         },
         {
           "icon": "phone",
           "type": "phone",
-          "title": "Contact Our Team",
+          "title": "Direct Contact Line",
           "content": "+91 9876543210"
         },
         {
           "icon": "mail",
           "type": "email",
-          "title": "Email Us",
+          "title": "Email Communication",
           "content": "info@rkenterprise.com"
         },
         {
