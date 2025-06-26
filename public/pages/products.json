@@ -3,12 +3,12 @@
     "type": "image",
     "title": "Precision Door Components & Solutions",
     "enabled": true,
-    "subtitle": "High-quality manufacturing of connecting door parts, windows, and custom laser-engraved components",
+    "subtitle": "High-quality manufacturing of connecting door parts and custom window components with 7 years of industry expertise",
     "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2"
   },
   "meta": {
-    "title": "RK Enterprise | Door Parts & Custom Manufacturing Solutions",
-    "description": "Specialized manufacturer of precision door components, custom parts, and laser-engraved solutions with 7 years of industry expertise."
+    "title": "Door Parts & Custom Components - RK Enterprise",
+    "description": "Specialized manufacturer of precision door parts, window components, and custom laser-engraved solutions for diverse industrial applications"
   },
   "products": {
     "categories": [
@@ -21,7 +21,7 @@
             "id": "connecting-hinges",
             "name": "Precision Connecting Hinges",
             "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
-            "description": "High-strength connecting hinges designed for smooth door movement and durability",
+            "description": "High-strength connecting hinges designed for seamless door installations with superior durability and precision engineering",
             "applications": [
               "Residential Doors",
               "Commercial Buildings",
@@ -36,25 +36,24 @@
             ]
           },
           {
-            "id": "laser-engraved-parts",
-            "name": "Custom Laser-Engraved Components",
+            "id": "custom-door-frames",
+            "name": "Custom Door Frames",
             "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
-            "description": "Precision laser-engraved door and window components with custom detailing",
+            "description": "Tailored door frame solutions with precision laser writing and custom manufacturing capabilities",
             "applications": [
-              "Personalized Door Frames",
-              "Branded Hardware",
-              "Architectural Signage",
-              "Custom Manufacturing"
+              "Residential Installations",
+              "Commercial Spaces",
+              "Custom Architectural Designs"
             ],
             "specifications": [
-              "Precision Laser Engraving",
+              "Customizable Dimensions",
               "Multiple Material Options",
-              "Custom Design Capabilities",
-              "High-Resolution Detailing"
+              "Laser Engraving Available",
+              "Precision Engineered"
             ]
           }
         ],
-        "description": "Comprehensive range of precision-engineered door components for diverse applications"
+        "description": "Comprehensive range of high-quality door components designed for durability and precision performance"
       },
       {
         "id": "window-parts",
@@ -62,38 +61,37 @@
         "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
         "products": [
           {
-            "id": "window-fittings",
-            "name": "Advanced Window Fittings",
+            "id": "window-connectors",
+            "name": "Window Frame Connectors",
             "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
-            "description": "High-performance window connection and mounting components",
+            "description": "Precision-engineered window frame connectors for robust and reliable window installations",
             "applications": [
               "Residential Windows",
               "Commercial Glazing",
-              "Architectural Projects",
-              "Custom Installations"
+              "Architectural Projects"
             ],
             "specifications": [
-              "Aluminum and Steel Options",
-              "Weather-Resistant Coating",
-              "Multiple Size Configurations",
-              "High Load Tolerance"
+              "Aluminum Alloy Construction",
+              "Multiple Sizes Available",
+              "Weather Resistant",
+              "High Structural Integrity"
             ]
           }
         ],
-        "description": "Specialized window components engineered for performance and reliability"
+        "description": "Advanced window component solutions offering superior performance and customization"
       }
     ],
     "categoriesTitle": "Our Product Categories",
     "allProductsTitle": "Complete Product Range",
-    "categoriesSubtitle": "Find the perfect components for your specific project needs",
-    "allProductsSubtitle": "Comprehensive manufacturing solutions with precision and quality"
+    "categoriesSubtitle": "Find the perfect components for your specific project requirements",
+    "allProductsSubtitle": "Comprehensive solutions backed by 7 years of manufacturing expertise"
   },
   "sections": {
     "cta": {
       "type": "cta",
-      "title": "Need Custom Manufacturing Solutions?",
+      "title": "Need Custom Door or Window Components?",
       "enabled": true,
-      "subtitle": "Get expert consultation for your specific door and window component requirements",
+      "subtitle": "Get expert consultation and tailored solutions for your specific project requirements",
       "primaryCTA": {
         "text": "Request Custom Quote",
         "action": "/contact"
@@ -108,7 +106,7 @@
       "items": [],
       "title": "Explore Our Product Range",
       "enabled": true,
-      "subtitle": "Precision manufacturing solutions for diverse architectural and industrial needs"
+      "subtitle": "Precision-engineered components for diverse architectural and industrial applications"
     }
   }
 }
